@@ -6,7 +6,7 @@
 pool:  
   name: Azure Pipelines
 
-trigger: master
+trigger: none
 
 steps:
 - task: Maven@4
